@@ -14,6 +14,7 @@ This repository shows the exercises and projects in the **Secure and Private AI 
     - Project 1: Generate Parallel Databases
     - Project 2: Evaluating the Privacy of a Function
     - Project 3: Calculate L1 Sensitivity For Threshold
+    - Project 4: Perform a Differencing Attack on Row 10
  
 
 ## Dependencies
